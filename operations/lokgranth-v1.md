@@ -55,8 +55,10 @@ Be specific about what you need. It helps others give better input and prevents 
 
 **Document your thought processes**
 Add notes, voice recordings, or even quick messages to share what's going on in your head. If someone isn't available for a call, don't wait — send them something they can catch up on.
-- Figma notes, comments, Google Docs, Google Chat messages, voice notes all work.
+- Figma notes, comments, Google Docs, Chaupal messages, voice notes all work.
 - This keeps collaboration async-friendly, especially across time zones or schedules.
+
+*[Note: Internal messaging has moved primarily to Chaupal within Karm. Google Chat is still used for some team communication and for the Devadoot AI assistant, but Chaupal is now the primary internal messaging space.]*
 
 **Acknowledge wins!**
 Design is never a solo win. If someone's feedback, words, or even a passing comment shaped your thinking, acknowledge it.
@@ -85,6 +87,10 @@ We believe in responsibility, not rank. Our titles are defined as roles of respo
 | **DA (Design Associate)** | Expert in at least one area. Has cross-disciplinary awareness. Mentors ADAs and fellow DAs. |
 | **DD (Design Director)** | Provides creative direction. Supports multiple teams. Elevates quality and consistency. |
 | **Founder** | Sets direction, steps in when needed, supports overall project health. |
+
+*[Note: This table covers the core design roles. Devalok also has specialized roles not listed here: Content Associate, Operations Associate/Apprentice, US Representative, and Director of Stewardship (People & Culture). See the complete context doc Section 14 for the full structure.]*
+
+*[Note: Devalok uses a "Mini-Agency Model" for project teams — for each project, the best-fit person builds a small team within the studio based on project needs. An Apprentice can lead; a Director can assist. This model is described in the complete context doc but was not yet formalized when Lokgranth v1 was written.]*
 
 **Responsibility is what matters** — If someone's leading a project, they're in charge of that flow, even if they're "junior" in another context.
 
@@ -147,7 +153,7 @@ Everyone works differently — and that's not something we try to "fix." Some pe
 
 **Update your status**
 Show your availability using Karm, Google Calendar, and chat status. This helps the team plan and stay in sync.
-- Apply for leaves according to The Break Framework
+- Apply for leaves according to The Break Framework *(see complete context doc Section 18 for full details: 122 break days/year, no fixed weekends, half-year splits, carryover/cashout rules, protocol violation thresholds)*
 - Put an OOO on your calendar for leave days
 - Update your Google Chat status if you're AFK
 
@@ -161,6 +167,8 @@ Know who likes morning deep work vs. evening hours. This helps with timelines an
 
 **Own your method of tracking**
 Whether it's Karm, docs, notes, or your own system — we don't enforce one system for tracking daily work. There is no one tracking your daily work but yourself. You are your own manager.
+
+*[Note: Since Lokgranth v1, Karm has expanded significantly. Lokwasis now use: Chaupal (internal messaging), Dhara (heartbeat widget — who's present, festivals, activity), Search (command palette), Announcements, Feedback channel, Personal Todos, and a full Notification system. The attendance system also requires a daily mark before 2:00 PM IST with a correction quota (15/year). See the complete context doc Section 16 for the full feature set.]*
 
 **Self-regulate your workload**
 If you're overwhelmed, say so. If you have bandwidth, offer help. Learn to say no, yes, and "not yet." This will help you more than anyone and also build your self-confidence.
