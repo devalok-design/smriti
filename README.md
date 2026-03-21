@@ -30,6 +30,7 @@ smriti/
 | Sahayak Handbook | `publications/sahayak-handbook.md` | v1.0.0 | Markdown conversion of the printed client handbook. |
 | Mānas Vol. 01 | `publications/manas-vol01.md` | v1.0.0 | Portfolio book 2024–2025. 8 case studies with full design process narratives. |
 | Service Capabilities | `services/service-capabilities.md` | v1.0.0 | Full capabilities report across all six disciplines. |
+| Lokgranth (Handbook) | `operations/lokgranth-v1.md` | v1.0.0 | Internal team handbook — collaboration, roles, project rhythm, client ops. |
 
 ## Conventions
 
