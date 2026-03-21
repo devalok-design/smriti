@@ -17,7 +17,8 @@ smriti/
 ├── publications/                # Printed publications converted to markdown
 ├── services/                    # Service capabilities & offerings detail
 ├── operations/                  # Internal operations (handbook, TBF, hiring)
-├── brand/                       # Visual identity, voice & tone, decks
+├── brand/                       # Brand assets (S3 URLs) & email components
+├── writing/                     # Writing templates & content workflows
 └── clients/                     # Client process, case studies
 ```
 
@@ -31,6 +32,11 @@ smriti/
 | Mānas Vol. 01 | `publications/manas-vol01.md` | v1.0.0 | Portfolio book 2024–2025. 8 case studies with full design process narratives. |
 | Service Capabilities | `services/service-capabilities.md` | v1.0.0 | Full capabilities report across all six disciplines. |
 | Lokgranth (Handbook) | `operations/lokgranth-v1.md` | v1.0.0 | Internal team handbook — collaboration, roles, project rhythm, client ops. |
+| Brand Assets | `brand/assets.md` | v1.0.0 | S3-hosted logo URLs, favicons, email logos, email icons, manifest reference. |
+| Email Components | `brand/email-components.md` | v1.0.0 | HTML email building blocks — headers, footers, typography, buttons, layouts. |
+| Client Templates | `writing/client-templates.md` | v1.0.0 | Client email templates (10 types) and proposal templates. |
+| Content Templates | `writing/content-templates.md` | v1.0.0 | Social media, case study, newsletter, and internal communication templates. |
+| LinkedIn Workflow | `writing/linkedin-workflow.md` | v1.0.0 | LinkedIn content creation — voice rules, personas, pillars, post structure. |
 
 ## Conventions
 
@@ -59,6 +65,8 @@ Current overlapping content:
 |-------|----------------|------------------------|
 | Glossary/Terminology | `glossary/devalok-glossary.md` | Section 29 |
 | Service Capabilities | `services/service-capabilities.md` | Section 10 |
+| Brand Assets | `brand/assets.md` | Section 8 (URLs only) |
+| Writing Templates | `writing/client-templates.md` | Section 30 (principles only) |
 
 ### Naming
 
