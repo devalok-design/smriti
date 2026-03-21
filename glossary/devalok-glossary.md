@@ -45,7 +45,7 @@ The named documents and publications that carry our knowledge.
 Book of the Lok. Devalok's internal team handbook containing operating principles, collaboration philosophy, culture guidelines, and the collective wisdom of the studio. An ever-evolving document that grows with the team. Internal only — not shared with clients.
 
 **Karyakram** · कार्यक्रम · *kar-ya-KRAM*
-Program or plan. The project recordkeeping document that serves as the single source of truth for every active project. It holds client info, goals, meeting recordings, Figma links, feedback logs, and timeline updates. Updated after every client call, internal check-in, or major decision. Every project has a Karyakram.
+Program or plan. The task management system within Karm that serves as the single source of truth for every project's work. Projects are organized into stages (kanban columns) containing tasks with assignees, due dates, priority, and status. Tasks support threaded messages, file attachments, deliverables with a review cycle, and activity logs. Originally maintained as a Google Docs record per project, Karyakram has since been rebuilt as a full system within Karm.
 
 **Sahayak** · सहायक · *suh-HAA-yuk*
 One who helps. The client handbook given to every new client at the start of an engagement. It walks them through Devalok's philosophy, services, process, and what to expect from the collaboration. The name reflects exactly what it's designed to do — help.

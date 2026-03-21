@@ -576,8 +576,8 @@ Retainer engagements for UI/UX clients to build features and ensure brand consis
 ### "Beyond the Brief" in Practice
 
 This means executing on what the client *needs*, not just what they *request*:
-- Renamed Enchanted Baby to "Bundle" with a full story behind the new name
-- Helped Bundle move production from China to India: packaging vendor in Jaipur, manufacturing vendor in India, US-regulated baby product tests in Noida
+- Renamed Enchanted Baby to "Bondle" with a full story behind the new name
+- Helped Bondle move production from China to India: packaging vendor in Jaipur, manufacturing vendor in India, US-regulated baby product tests in Noida
 - Advised offline-first clients against building websites when physical assets would serve them better
 - Set up complete supply chains cheaper than previous arrangements
 
@@ -940,7 +940,7 @@ First Week: Process orientation, tool setup, initial project assignment.
 
 ## 21. NOTABLE CLIENTS & PROJECTS
 
-- **Bundle** (formerly Enchanted Baby) — Full rebrand including name change, supply chain relocation from China to India (packaging: Jaipur, manufacturing: India, testing: Noida), baby care products
+- **Bondle** (formerly Enchanted Baby) — Full rebrand including name change, supply chain relocation from China to India (packaging: Jaipur, manufacturing: India, testing: Noida), baby care products
 - **MoveCars.com** — US-based brand (used as central story for Marketing Monk newsletter)
 - **Coffee Plantation** — Legacy brand, one of the first coffee houses in America, brand revival project (Arizona region)
 - **Infinity Mind Movies** — First Devalok client (the Starbucks napkin story), met at ASU
