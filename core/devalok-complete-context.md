@@ -869,7 +869,7 @@ Certain users (founders, leadership) are marked as attendance-exempt — they ar
 
 ### Attendance
 - **Single daily mark** — Lokwasis mark attendance once before the cutoff. This is NOT clock-in/clock-out; it's a simple "I'm here today" confirmation
-- **Cutoff:** 3:00 PM IST (lokwasis must mark before this time)
+- **Cutoff:** 2:00 PM IST (lokwasis must mark before this time)
 - **Prerequisite:** Must have at least one active task to mark attendance
 - **Break day blocking:** Cannot mark attendance on an approved break day — must cancel the break first
 - **Missed attendance:** If unmarked by 11 AM the next day, the system automatically marks the Lokwasi as absent
