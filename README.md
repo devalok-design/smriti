@@ -28,6 +28,7 @@ smriti/
 | Complete Context | `core/devalok-complete-context.md` | v1.0.0 | The single comprehensive reference for Devalok. Start here. |
 | Glossary | `glossary/devalok-glossary.md` | v1.0.0 | All Devalok terminology with etymology, meaning, and pronunciation. |
 | Sahayak Handbook | `publications/sahayak-handbook.md` | v1.0.0 | Markdown conversion of the printed client handbook. |
+| Mānas Vol. 01 | `publications/manas-vol01.md` | v1.0.0 | Portfolio book 2024–2025. 8 case studies with full design process narratives. |
 | Service Capabilities | `services/service-capabilities.md` | v1.0.0 | Full capabilities report across all six disciplines. |
 
 ## Conventions
