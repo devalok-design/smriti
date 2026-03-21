@@ -48,7 +48,7 @@ Mānas is a hardbound, full-color portfolio book printed on FSC-certified sustai
 
 ## Introduction to Mānas
 
-Mānas by DEVALOK is a bi-annual compilation showcasing the finest works produced by us over the last six months. This collection reflects our balance of intention and instinct, highlighting the skill, precision, and thoughtful process our in-house team brings to every project.
+Mānas by DEVALOK is an annual compilation showcasing the finest works produced by us. This collection reflects our balance of intention and instinct, highlighting the skill, precision, and thoughtful process our in-house team brings to every project.
 
 *Manas Vol. 01 (2025) is a collection of work done between July 2024 and January 2025.*
 

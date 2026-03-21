@@ -96,7 +96,7 @@ This is the essence of Devalok. A space for those who believe their vision deser
 >
 > Working with the Devalok team has been the best investment Kaizen Waste has made to date. We have lost count of how many compliments we have received, with clients and peers alike stating "it is on the level of Fortune 500 logos." Devalok didn't just deliver a design; they gave us a competitive edge. If you want branding that turns heads and builds trust, Devalok is the only choice.
 >
-> — **Pierce Brown**, Co-Founder & CEO, Kaizen
+> — **Pierce Brown**, Founder, Kaizen
 
 > **"The branding has laid a foundation for me to take my business to new heights with EASE!"**
 >
@@ -307,7 +307,7 @@ View the full project at [dvlk.in/divini](https://dvlk.in/divini)
 >
 > "Mudit Lal changed my life. For 7 months between October 2023 and April 2024, I struggled to find a brand look for DIVINI that truly resonated with me. Something that I could back with 100% confidence. I truly believe DIVINI has the grounds to become a nationally recognized and consumable beverage brand that will spark generational change. And that is thanks to Mudit."
 >
-> — **Mason Donneq**, Founder, DIVINI
+> — **Mason Domecq**, Founder, DIVINI
 
 ---
 
@@ -371,7 +371,7 @@ Book a call with us: [dvlk.in/talk](https://dvlk.in/talk)
 ### Contact
 
 **Mudit Lal**
-+91 77548 50181 | +1 (602) 633 2521
++91 77548 50181 | +1 (602) 693 2521
 mudit@devalok.in | devalok.in
 
 **Offices:**

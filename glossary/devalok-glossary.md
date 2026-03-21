@@ -51,7 +51,7 @@ Program or plan. The task management system within Karm that serves as the singl
 One who helps. The client handbook given to every new client at the start of an engagement. It walks them through Devalok's philosophy, services, process, and what to expect from the collaboration. The name reflects exactly what it's designed to do — help.
 
 **Mānas** · मानस · *MAA-nus*
-Mind or heart. Devalok's portfolio book — not just a showcase of finished work, but a collection of stories, process, and the thinking behind every project. Published periodically and shared with prospects, clients, and partners. Each volume captures a chapter of the studio's evolution.
+Mind or heart. Devalok's annual portfolio book — not just a showcase of finished work, but a collection of stories, process, and the thinking behind every project. Shared with prospects, clients, and partners. Each volume captures a chapter of the studio's evolution.
 
 **Sankalan** · संकलन · *sun-kuh-LUN*
 Collection or compilation. Devalok's monthly newsletter — a curated digest of studio updates, thinking, and creative explorations. Distributed via sankalan@devalok.in.
