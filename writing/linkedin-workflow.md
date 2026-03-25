@@ -34,7 +34,7 @@ These are in addition to the general Devalok voice rules. When writing LinkedIn 
 | Rule | Rationale |
 |------|-----------|
 | **No em dashes (—)** | Mudit's voice doesn't use them. Use commas, periods, or restructure. |
-| **No "it's not X, it's Y" structures** | Overused LinkedIn pattern. Feels cliched. |
+| **No contrastive negation** | No structures where one sentence negates and the next corrects. State the insight directly. See full list below. |
 | **No motivational closers** | No "go build something great" or "your brand deserves better." End with substance. |
 | **No buzzwords** | Never: thought leader, game-changer, transformative, innovative, disruptive, unlock potential, next level. |
 | **No vague fillers** | Never: "in today's world", "the truth is", "here's the thing", "let that sink in." |
@@ -43,6 +43,44 @@ These are in addition to the general Devalok voice rules. When writing LinkedIn 
 | **No word limits** | Content drives length. A post is as long as it needs to be. |
 | **Mandatory research** | Every post must include real companies, real numbers, specific backstories. No hypotheticals. |
 | **Clear takeaway** | Every post ends with something concrete and practical the reader can use. |
+| **Devalok mentions** | Only when it adds real context. Never forced. See decision tree below. |
+
+### Contrastive Negation (Expanded)
+
+This is a specific, pervasive LinkedIn writing pattern. All variations where one sentence negates and the next presents the "real" truth are banned.
+
+**Common forms to catch and rewrite:**
+
+| Pattern | Example |
+|---------|---------|
+| "It's not X, it's Y" | "It's not a rebrand, it's a repositioning" |
+| "Not because X. Because Y." | "Not because they had budget. Because they had taste." |
+| "They didn't just X. They Y'd." | "They didn't just redesign the packaging. They redesigned how people felt about oat milk." |
+| "X isn't the point. Y is." | "The logo isn't the point. The system is." |
+| "The X didn't change. What changed was Y." | "The product didn't change. What changed was the brand." |
+| "This isn't about X. It's about Y." | "This isn't about design. It's about perception." |
+
+**The fix:** State the insight directly. Lead with what IS true, not what ISN'T.
+
+- Before: "They didn't just redesign the packaging. They redesigned how people felt about oat milk."
+- After: "The redesign changed how people felt about oat milk."
+
+**Self-check:** After drafting, search for "not," "didn't," "isn't," "wasn't," and "don't" at the start of any sentence. If the next sentence presents the contrasting truth, rewrite as a direct statement.
+
+### Devalok Mentions (Decision Tree)
+
+After drafting, scan the post for whether Devalok fits naturally. The decision tree:
+
+**If the post is about a Devalok project, decision, or team experience:**
+Devalok is part of the story. Name it as many times as the narrative requires. No cap, no restraint. It's the subject.
+
+**If the post is about an industry insight, external brand, or general thesis:**
+Ask one question: is there a single moment where naming Devalok adds real context? A studio methodology, a team member's take, a client reference. If yes, place it once and tag @Devalok. If the insertion requires even slight gymnastics to justify, skip it entirely. The post is stronger without a forced mention than with one.
+
+**If the post is a personal perspective piece (Mudit's founder journey, engineering background, philosophy):**
+Devalok may or may not belong. Only include it if the personal story genuinely intersects with the studio. "I" posts don't need a studio plug.
+
+**The test:** Remove the Devalok mention from the sentence. Does the sentence lose meaning or context? If yes, keep it. If the sentence works fine without it, cut it.
 
 ### Quality Standard
 
@@ -111,7 +149,7 @@ Close         → Concrete takeaway or framework the reader can apply
 1. Read voice rules (from SKILL.md and this document)
 2. Identify topic, target persona, and content pillar
 3. Conduct research (real companies, real numbers)
-4. Check Devalok client list for relevant examples
+4. Check Devalok client list for relevant examples (Refer to Manas and more - .md is available in Smriti)
 5. Draft following the post structure
 6. Apply all voice rules
 7. Map which arguments came from which team members
@@ -153,7 +191,7 @@ Every post MUST include real data. No hypotheticals, no "imagine a company that.
 
 ### Example of Good Research
 
-> "Oatly was founded in 1985 as a niche health food brand. For nearly 20 years, they stayed small. Then in 2012, new CEO Toni Petersson brought in Forsman & Bodenfors. The rebrand didn't just change packaging. It changed the way people talked about oat milk. Demand surged 700%. They went from a Swedish health food footnote to a $10B IPO in 2021."
+> "Oatly was founded in 1985 as a niche health food brand. For nearly 20 years, they stayed small. Then in 2012, new CEO Toni Petersson brought in Forsman & Bodenfors. The rebrand changed how people talked about oat milk. Demand surged 700%. They went from a Swedish health food footnote to a $10B IPO in 2021."
 
 ---
 
@@ -161,13 +199,15 @@ Every post MUST include real data. No hypotheticals, no "imagine a company that.
 
 Before any post is considered ready:
 
-- [ ] Verified against all 10 voice rules
+- [ ] Verified against all 11 voice rules
 - [ ] Includes real research with real numbers
 - [ ] Has a clear, practical takeaway
 - [ ] Target persona identified and content serves them
 - [ ] Content pillar identified
 - [ ] Hook is genuinely scroll-stopping
 - [ ] No banned words or patterns
+- [ ] No contrastive negation (searched for "not/didn't/isn't/wasn't/don't" at sentence starts)
+- [ ] Devalok mentions pass the decision tree (removal test applied)
 - [ ] "We" used correctly (Devalok work) vs "I" (personal only)
 - [ ] Post structure followed (Hook → Context → Insight → Principle → Close)
 - [ ] Writers and team arguments attributed in metadata
@@ -187,7 +227,7 @@ Oatly was a health food brand for 20 years before anyone noticed.
 
 Founded in 1985 by a food scientist at Lund University, they sold oat-based drinks to a niche audience of lactose-intolerant consumers. For nearly two decades, they stayed in that lane.
 
-Then in 2012, new CEO Toni Petersson brought in Forsman & Bodenfors. They didn't just redesign the packaging. They redesigned how people felt about oat milk.
+Then in 2012, new CEO Toni Petersson brought in Forsman & Bodenfors. The redesign changed how people felt about oat milk.
 
 The quirky hand-lettered cartons. The "Wow, No Cow" campaign. The deliberately unpolished tone that made a health product feel like a cultural statement.
 
@@ -203,18 +243,18 @@ Three things happen when design does this well:
 
 1. The brand stops needing to explain itself. The visual identity does the talking. Oatly's packaging sits on a shelf next to Silk and Califia. You know which one it is without reading the label.
 
-2. Perception does the selling. Allbirds wasn't selling shoes. They were selling a feeling. That feeling came from design, not from features.
+2. Perception does the selling. Allbirds sold a feeling, not a shoe. That feeling came from design.
 
 3. You earn the right to charge more. When your brand looks considered, people assume your product is considered. Premium perception follows premium design.
 
-For smaller brands, this isn't a luxury. It's the strategy.
+For smaller brands, this is the strategy.
 
 Three questions we ask every brand we work with:
 What do you actually stand for?
 Can someone understand it in 3 seconds by looking at your presence?
 Does every surface of your brand say the same thing?
 
-If the answer to any of these is no, design isn't a nice-to-have. It's the unlock.
+If the answer to any of these is no, design is where you start.
 ```
 
 ### Voice Check
@@ -222,11 +262,12 @@ If the answer to any of these is no, design isn't a nice-to-have. It's the unloc
 | Rule | Pass? |
 |------|-------|
 | No em dashes | Yes |
-| No "it's not X, it's Y" | Yes |
+| No contrastive negation | Yes |
 | No motivational closers | Yes |
 | No buzzwords | Yes |
 | No vague fillers | Yes |
 | Uses "we" for Devalok work | Yes (last section) |
+| Devalok mentions pass decision tree | Yes ("we" in closing framework adds context, passes removal test) |
 | Real research with numbers | Yes (Oatly + Allbirds) |
 | Clear takeaway | Yes (three-question framework) |
 
