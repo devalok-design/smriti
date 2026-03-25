@@ -78,15 +78,19 @@ Every post needs at least one example that passes the "have I seen this on Linke
 
 ### Conversational Openings
 
-The first 2-3 lines must pass the "dinner table test." Read them out loud. If they sound like something Mudit would say to a friend over chai, they work. If they sound like the opening of a Medium article, rewrite.
+**Hook and personal entry are two separate beats.** The hook (line 1) stops the scroll. It's short, surprising, and creates a question in the reader's mind. The personal entry (lines 2-4) is where Mudit's voice comes in. Don't combine them. The hook earns the click on "see more." The personal voice earns the full read. A warm, conversational opening that nobody clicks on is wasted.
+
+The personal entry lines must pass the "dinner table test." Read them out loud. If they sound like something Mudit would say to a friend over chai, they work. If they sound like the opening of a Medium article, rewrite.
 
 **Core principle:** Start with Mudit's own observation, opinion, like, or dislike. The reader should meet Mudit first, the subject second. Personal entry points make the reader feel invited into a conversation rather than being presented a case study.
 
-**Patterns that work:**
-- Personal entry: "I've admired [brand] for a long time. But the part most people skip over is..." / "I tell this story a lot, but..." / "Someone asked me last week why we..."
+**Hook patterns (line 1):**
 - Flat observation: "Nobody cared." / "It didn't work." / "The product was the same product."
 - Casual provocation: "I can't play that game. Most small brands can't." / "Sounds obvious. Almost nobody does it."
 - Mid-thought start: Open as if the conversation already started. No preamble. Drop the reader into the middle.
+
+**Personal entry patterns (lines 2-4):**
+- "I've admired [brand] for a long time. But the part most people skip over is..." / "I tell this story a lot, but..." / "Someone asked me last week why we..."
 
 **Patterns to avoid:**
 - Wikipedia opening: "Founded in 1994 by food scientists in Sweden, Oatly was..."
