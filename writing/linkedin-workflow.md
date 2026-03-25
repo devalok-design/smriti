@@ -45,42 +45,67 @@ These are in addition to the general Devalok voice rules. When writing LinkedIn 
 | **Clear takeaway** | Every post ends with something concrete and practical the reader can use. |
 | **Devalok mentions** | Only when it adds real context. Never forced. See decision tree below. |
 
-### Contrastive Negation (Expanded)
+### Contrastive Negation Ban
 
-This is a specific, pervasive LinkedIn writing pattern. All variations where one sentence negates and the next presents the "real" truth are banned.
+The "No 'it's not X, it's Y' structures" rule extends to ALL contrastive negation patterns. This includes:
 
-**Common forms to catch and rewrite:**
+- "It's not X, it's Y"
+- "Not because X. Because Y."
+- "They didn't just X. They Y'd."
+- "X isn't the point. Y is."
+- "The product didn't change. What changed was the brand."
+- "This isn't about X. It's about Y."
 
-| Pattern | Example |
-|---------|---------|
-| "It's not X, it's Y" | "It's not a rebrand, it's a repositioning" |
-| "Not because X. Because Y." | "Not because they had budget. Because they had taste." |
-| "They didn't just X. They Y'd." | "They didn't just redesign the packaging. They redesigned how people felt about oat milk." |
-| "X isn't the point. Y is." | "The logo isn't the point. The system is." |
-| "The X didn't change. What changed was Y." | "The product didn't change. What changed was the brand." |
-| "This isn't about X. It's about Y." | "This isn't about design. It's about perception." |
+The fix: State the insight directly. Instead of "They didn't just redesign the packaging. They redesigned how people felt about oat milk," write "The redesign changed how people felt about oat milk." Drop the negation entirely. Lead with what IS true.
 
-**The fix:** State the insight directly. Lead with what IS true, not what ISN'T.
+Self-check: After drafting, search for "not," "didn't," "isn't," "wasn't," and "don't" at the start of any sentence. If the next sentence presents the contrasting truth, rewrite as a direct statement.
 
-- Before: "They didn't just redesign the packaging. They redesigned how people felt about oat milk."
-- After: "The redesign changed how people felt about oat milk."
+### Example Freshness
 
-**Self-check:** After drafting, search for "not," "didn't," "isn't," "wasn't," and "don't" at the start of any sentence. If the next sentence presents the contrasting truth, rewrite as a direct statement.
+Every post needs at least one example that passes the "have I seen this on LinkedIn before?" test.
 
-### Devalok Mentions (Decision Tree)
+**Tier 1 (preferred): Unfamiliar brands with specific data.** Brands the reader probably hasn't encountered in a LinkedIn post. Devalok clients (Mawshi, Eat Purposefully, Coffee Plantation), or obscure international examples with strong numbers. These create genuine curiosity because the reader learns something new.
 
-After drafting, scan the post for whether Devalok fits naturally. The decision tree:
+**Tier 2 (acceptable): Familiar brands with an unfamiliar angle.** If using Oatly, Crocs, or Apple, the angle must be something most people haven't read. Not "Oatly rebranded and grew." Instead: "Oatly's CEO sang badly in an oat field for a Super Bowl ad and it worked because the brand had already earned the right to be weird." The unfamiliar detail inside the familiar brand makes it land.
 
-**If the post is about a Devalok project, decision, or team experience:**
-Devalok is part of the story. Name it as many times as the narrative requires. No cap, no restraint. It's the subject.
+**Tier 3 (avoid): Familiar brand, familiar angle.** "Apple named an electronics company after a fruit and it worked." "Nike's Just Do It changed everything." If the reader can predict the next sentence, the example is dead weight.
 
-**If the post is about an industry insight, external brand, or general thesis:**
-Ask one question: is there a single moment where naming Devalok adds real context? A studio methodology, a team member's take, a client reference. If yes, place it once and tag @Devalok. If the insertion requires even slight gymnastics to justify, skip it entirely. The post is stronger without a forced mention than with one.
+**Mix rule:** If a post uses a Tier 2 example, it must also include at least one Tier 1 example. A post built entirely on Tier 2 reads like a recycled thread.
 
-**If the post is a personal perspective piece (Mudit's founder journey, engineering background, philosophy):**
-Devalok may or may not belong. Only include it if the personal story genuinely intersects with the studio. "I" posts don't need a studio plug.
+**Personal connection override:** If Mudit has a genuine personal relationship with the brand, a strong opinion about it, or a behind-the-scenes observation, any example works regardless of tier. Personal context makes a familiar brand feel unfamiliar.
 
-**The test:** Remove the Devalok mention from the sentence. Does the sentence lose meaning or context? If yes, keep it. If the sentence works fine without it, cut it.
+**Research direction:** Start with Devalok's own client work, then look at brands in the $1M-$50M range that most people haven't written LinkedIn posts about. The goal is to introduce the reader to something, not remind them of something.
+
+### Conversational Openings
+
+The first 2-3 lines must pass the "dinner table test." Read them out loud. If they sound like something Mudit would say to a friend over chai, they work. If they sound like the opening of a Medium article, rewrite.
+
+**Core principle:** Start with Mudit's own observation, opinion, like, or dislike. The reader should meet Mudit first, the subject second. Personal entry points make the reader feel invited into a conversation rather than being presented a case study.
+
+**Patterns that work:**
+- Personal entry: "I've admired [brand] for a long time. But the part most people skip over is..." / "I tell this story a lot, but..." / "Someone asked me last week why we..."
+- Flat observation: "Nobody cared." / "It didn't work." / "The product was the same product."
+- Casual provocation: "I can't play that game. Most small brands can't." / "Sounds obvious. Almost nobody does it."
+- Mid-thought start: Open as if the conversation already started. No preamble. Drop the reader into the middle.
+
+**Patterns to avoid:**
+- Wikipedia opening: "Founded in 1994 by food scientists in Sweden, Oatly was..."
+- LinkedIn hook formula: "Most people think X. They're wrong."
+- Thesis statement: "Design is the most undervalued competitive advantage for small brands."
+
+**The "I" bridge:** When using external examples, find the personal bridge first. Why does Mudit care about this brand? What's his connection? Even one line ("I've admired their brand for a long time") transforms a case study into a conversation. This is an exception to the general rule that "I" is reserved for personal stories only. Using "I" to express a genuine opinion or observation about an external brand is valid because it's Mudit's real perspective, not studio work reframed.
+
+### Devalok Mentions
+
+After drafting, scan the post for whether Devalok fits naturally.
+
+**If the post is about a Devalok project, decision, or team experience:** Devalok is part of the story. Name it as many times as the narrative requires. No cap. It's the subject.
+
+**If the post is about an industry insight, external brand, or general thesis:** Ask one question: is there a single moment where naming Devalok adds real context? A studio methodology, a team member's take, a client reference. If yes, place it once and tag @Devalok. If the insertion requires even slight gymnastics to justify, skip it entirely. The post is stronger without a forced mention than with one.
+
+**If the post is a personal perspective piece (Mudit's founder journey, engineering background, philosophy):** Devalok may or may not belong. Only include it if the personal story genuinely intersects with the studio. "I" posts don't need a studio plug.
+
+**The test:** Remove the Devalok mention from the sentence. Does the sentence lose meaning or context? If yes, keep it. If it works fine without it, cut it.
 
 ### Quality Standard
 
@@ -207,7 +232,9 @@ Before any post is considered ready:
 - [ ] Hook is genuinely scroll-stopping
 - [ ] No banned words or patterns
 - [ ] No contrastive negation (searched for "not/didn't/isn't/wasn't/don't" at sentence starts)
-- [ ] Devalok mentions pass the decision tree (removal test applied)
+- [ ] Example freshness check (at least one Tier 1 example; no post built entirely on Tier 2)
+- [ ] Conversational opening passes the "dinner table test" (read aloud, sounds like Mudit over chai)
+- [ ] Devalok mentions pass the removal test
 - [ ] "We" used correctly (Devalok work) vs "I" (personal only)
 - [ ] Post structure followed (Hook → Context → Insight → Principle → Close)
 - [ ] Writers and team arguments attributed in metadata
@@ -284,4 +311,4 @@ If the answer to any of these is no, design is where you start.
 
 ---
 
-*Reference: writing/linkedin-workflow.md | Version 1.0.0*
+*Reference: writing/linkedin-workflow.md | Version 1.1.0*
