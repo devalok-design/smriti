@@ -13,7 +13,7 @@
 - Favicons
 - Email logos (PNG — for email headers/footers)
 - Email icons (custom 3D PNGs)
-- Quick selection guide
+- Logo usage guide (hierarchy, color rules, watermark spec)
 - Web implementation snippets
 
 ---
@@ -74,14 +74,11 @@ https://devalok-public-assets.s3.ap-south-1.amazonaws.com/brand/karm/logos/wordm
 | **shloka** | Sanskrit verse version | brand, black, white | png, webp |
 | **chakra** | Svadhisthana flower mark | brand, black, white | svg, png, webp |
 
-### Most Common — Devalok Monogram + Wordmark (Brand)
+### Default — Devalok Wordmark (Brand)
 
 ```
-https://devalok-public-assets.s3.ap-south-1.amazonaws.com/brand/devalok/logos/monogram-wordmark-brand-1024.png
+https://devalok-public-assets.s3.ap-south-1.amazonaws.com/brand/devalok/logos/wordmark-brand.svg
 ```
-
-### Light Backgrounds → Use `brand` or `black` variants
-### Dark Backgrounds → Use `white` variants
 
 ---
 
@@ -93,10 +90,10 @@ https://devalok-public-assets.s3.ap-south-1.amazonaws.com/brand/devalok/logos/mo
 | **wordmark** | "KARM" text only | brand, black, white | svg, png, webp |
 | **wordmark-icon** | Icon + "KARM" text | brand, black, white | svg, png, webp |
 
-### Most Common — Karm Wordmark + Icon (Brand)
+### Default — Karm Wordmark + Icon (Brand)
 
 ```
-https://devalok-public-assets.s3.ap-south-1.amazonaws.com/brand/karm/logos/wordmark-icon-brand.svg
+https://devalok-public-assets.s3.ap-south-1.amazonaws.com/brand/karm/logos/wordmark-icon-brand-1024.png
 ```
 
 ---
@@ -142,18 +139,59 @@ Custom Devalok 3D-style icons at `{base}/email-icons/`. Used in transactional an
 
 ---
 
-## Quick Selection Guide
+## Logo Usage Guide
+
+### Devalok — Logo Hierarchy
+
+Devalok has three primary logo assets. Use them in this priority order:
+
+| Priority | Logo | When to Use | Sizing |
+|----------|------|-------------|--------|
+| **Default** | **Wordmark** | Most contexts: email headers, document headers, web, presentations. Clearly conveys "Devalok" — this is the everyday logo. | Any size |
+| **Premium** | **Monogram Shell Wordmark** | Reserved for large, prominent placements that give the logo prime real estate: hero sections, cover pages, presentation title slides. This logo has many fine details that need room to breathe. | Medium to large only |
+| **Signature** | **Chakra** | Document watermark/signature. Marks a document as Devalok's. Not always used — primarily for Word docs, PDFs, and formal deliverables. | Proportional to page |
+
+**All other Devalok logo types** (monogram, monogram-wordmark, monogram-coin-wordmark, shloka, dass) are available in the asset system but are rarely used in standard documents.
+
+### Karm — Logo Hierarchy
+
+| Priority | Logo | When to Use |
+|----------|------|-------------|
+| **Default** | **Wordmark + Icon** | Full Karm logo for regular placements |
+| **Mark** | **Icon** | Compact Karm mark — the Devalok Chakra in curly braces, signifying Karm |
+
+### Color Rules
+
+| Color | Fill Value | When to Use |
+|-------|-----------|-------------|
+| **Brand** (Padmavarna pink) | `#D33163` | Default. Light backgrounds, standard contexts. |
+| **White** | `#FFFFFF` | Dark backgrounds — dark sections, email footers, dark headers. |
+| **Black** | `#000000` | Monochrome contexts, formal printing, when brand pink doesn't fit. |
+
+### Chakra Watermark Specification
+
+When using the Chakra as a document signature:
+
+- **Position:** Top-right corner of the page/document
+- **Opacity:** 30%
+- **Padding:** Equal right and top padding, proportional to document margins
+- **Effect:** A light, subtle mark indicating "this is a Devalok document"
+
+### Asset Selection by Context
 
 | Use Case | Recommended Asset | URL Snippet |
 |----------|-------------------|-------------|
-| **Email Header** | Devalok monogram-wordmark, brand, PNG | `.../devalok/logos/monogram-wordmark-brand-1024.png` |
-| **Email Footer (dark bg)** | Devalok monogram, white, PNG | `.../devalok/logos/monogram-white-512.png` |
-| **Email Footer (logo)** | Devalok email logo, white | `.../email-logos/devalok-wordmark-white.png` |
+| **Document header** | Devalok wordmark, brand, SVG | `.../devalok/logos/wordmark-brand.svg` |
+| **Document watermark** | Devalok chakra, brand, SVG (30% opacity) | `.../devalok/logos/chakra-brand.svg` |
+| **Premium hero/cover** | Devalok monogram-shell-wordmark, brand, 1024 PNG | `.../devalok/logos/monogram-shell-wordmark-brand-1024.png` |
+| **Email Header** | Devalok email logo, brand, PNG | `.../email-logos/devalok-wordmark-brand-no-padding.png` |
+| **Email Footer (dark bg)** | Devalok email logo, white, PNG | `.../email-logos/devalok-wordmark-white.png` |
 | **Web Logo (scalable)** | Devalok wordmark, brand, SVG | `.../devalok/logos/wordmark-brand.svg` |
 | **Dark Background** | Any `white` variant | `...-white-{size}.{format}` |
 | **Light Background** | `brand` or `black` variant | `...-brand-{size}.{format}` |
-| **Karm UI** | Karm wordmark-icon, SVG | `.../karm/logos/wordmark-icon-brand.svg` |
-| **Social / OG Image** | Devalok monogram-wordmark, brand, 1024 PNG | `.../devalok/logos/monogram-wordmark-brand-1024.png` |
+| **Karm UI (full)** | Karm wordmark-icon, brand | `.../karm/logos/wordmark-icon-brand-1024.png` |
+| **Karm UI (compact)** | Karm icon, brand | `.../karm/logos/icon-brand-1024.png` |
+| **Social / OG Image** | Devalok monogram-shell-wordmark, brand, 1024 PNG | `.../devalok/logos/monogram-shell-wordmark-brand-1024.png` |
 
 All snippet paths are relative to `https://devalok-public-assets.s3.ap-south-1.amazonaws.com/brand`.
 

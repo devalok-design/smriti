@@ -17,7 +17,7 @@ smriti/
 ├── publications/                # Printed publications converted to markdown
 ├── services/                    # Service capabilities & offerings detail
 ├── operations/                  # Internal operations (handbook, TBF, hiring)
-├── brand/                       # Brand assets (S3 URLs) & email components
+├── brand/                       # Brand assets, document design, email components
 ├── writing/                     # Writing templates & content workflows
 └── clients/                     # Client process, case studies
 ```
@@ -33,7 +33,8 @@ smriti/
 | Service Capabilities | `services/service-capabilities.md` | v1.0.0 | Full capabilities report across all six disciplines. |
 | Lokgranth (Handbook) | `operations/lokgranth-v1.md` | v1.0.0 | Internal team handbook — collaboration, roles, project rhythm, client ops. |
 | Brand Assets | `brand/assets.md` | v1.0.0 | S3-hosted logo URLs, favicons, email logos, email icons, manifest reference. |
-| Email Components | `brand/email-components.md` | v1.0.0 | HTML email building blocks — headers, footers, typography, buttons, layouts. |
+| Document Design | `brand/document-design.md` | v1.0.0 | Typography, colors, layout, structure, and writing rules for all Devalok documents. |
+| Email Components | `brand/email-components.md` | v1.0.0 | HTML email building blocks: headers, footers, typography, buttons, layouts. |
 | Client Templates | `writing/client-templates.md` | v1.0.0 | Client email templates (10 types) and proposal templates. |
 | Content Templates | `writing/content-templates.md` | v1.0.0 | Social media, case study, newsletter, and internal communication templates. |
 | LinkedIn Workflow | `writing/linkedin-workflow.md` | v1.0.0 | LinkedIn content creation — voice rules, personas, pillars, post structure. |
