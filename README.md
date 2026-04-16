@@ -32,9 +32,15 @@ smriti/
 | Mānas Vol. 01 | `publications/manas-vol01.md` | v1.0.0 | Portfolio book 2024–2025. 8 case studies with full design process narratives. |
 | Service Capabilities | `services/service-capabilities.md` | v1.0.0 | Full capabilities report across all six disciplines. |
 | Lokgranth (Handbook) | `operations/lokgranth-v1.md` | v1.0.0 | Internal team handbook — collaboration, roles, project rhythm, client ops. |
+| Break Framework | `operations/break-framework.md` | v1.0.0 | The Break Framework — leave and attendance system, complete reference. |
+| Event Representation | `operations/event-representation.md` | v1.0.0 | How to represent Devalok at external events — posture, pitch, conversations, pricing. |
+| AI Discoverability | `operations/ai-discoverability.md` | v1.0.0 | Action plan for making Devalok visible to AI assistants (llms.txt, robots.txt, schema, content strategy). |
 | Brand Assets | `brand/assets.md` | v1.0.0 | S3-hosted logo URLs, favicons, email logos, email icons, manifest reference. |
 | Document Design | `brand/document-design.md` | v1.0.0 | Typography, colors, layout, structure, and writing rules for all Devalok documents. |
 | Email Components | `brand/email-components.md` | v1.0.0 | HTML email building blocks: headers, footers, typography, buttons, layouts. |
+| llms.txt | `brand/llms.txt` | v1.0.0 | AI discoverability file for devalok.in — studio description, services, resources. |
+| llms-full.txt | `brand/llms-full.txt` | v1.0.0 | Extended AI context file — full six-discipline breakdown with sub-capabilities. |
+| robots.txt | `brand/robots.txt` | v1.0.0 | AI & search crawler policy for devalok.in — allows all major AI crawlers. |
 | Client Templates | `writing/client-templates.md` | v1.0.0 | Client email templates (10 types) and proposal templates. |
 | Content Templates | `writing/content-templates.md` | v1.0.0 | Social media, case study, newsletter, and internal communication templates. |
 | LinkedIn Workflow | `writing/linkedin-workflow.md` | v1.0.0 | LinkedIn content creation — voice rules, personas, pillars, post structure. |

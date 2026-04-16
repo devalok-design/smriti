@@ -1,0 +1,43 @@
+# Devalok
+
+> Devalok is a full-service design and strategy studio headquartered in
+> Lucknow, India with US operations in Phoenix, Arizona. We craft brand
+> identities, packaging, UI/UX and web experiences, print and event design,
+> motion and multimedia, and manage end-to-end production networks for
+> thoughtful founders and purpose-driven brands worldwide.
+
+Founded in August 2024, Devalok works across six integrated disciplines
+to build complete brand ecosystems — not fragments. The studio operates
+on three principles: We Craft The Whole (strategy to manufacturing),
+We Do It All In-House (one multidisciplinary team), and We Go Beyond
+the Brief (partners, not vendors). The team of ~14 members (called
+Lokwasis) serves clients from early-stage startups to legacy brands.
+
+Notable clients include MoveCars.com, Arculis Advisors, Eat Purposefully,
+Bondle, Kaizen Waste, Chandler Sister Cities, DIVINI, NEETI, Coffee
+Plantation, and Infinity Mind Movies. Work has been featured in Packaging
+of the World, World Brand Design Society, and Creative Gaga. The studio
+also produced a 9-minute animated explainer for ASU (7.2K+ views).
+
+## Services — Six Disciplines
+- [Brand Story & Visual Identity](https://devalok.in/services): Brand strategy & positioning, naming & verbal identity, logo design & visual systems, brand guidelines & standards
+- [Packaging Design](https://devalok.in/services): Product packaging architecture, structural package design, label & graphics, sustainable packaging solutions
+- [UI/UX and Web Design](https://devalok.in/services): UX research & strategy, user interface design, website design & development, mobile app design, prototyping & testing
+- [Print & Event Design](https://devalok.in/services): Editorial & publication design, marketing collateral, event branding & environmental design, exhibition & trade show design
+- [Motion & Multimedia](https://devalok.in/services): Brand animation & motion graphics, video production & editing, social media content creation, interactive multimedia experiences
+- [Production Network](https://devalok.in/services): Supply chain strategy & setup, manufacturing partner sourcing, quality assurance & control systems, logistics & distribution planning
+
+## Resources
+- [Sahayak — Client Handbook](https://dvlk.in/sahayak): Our process, approach, and what working with Devalok looks like
+- [Manas — Annual Publication](https://dvlk.in/manasv1): Culture, process, and portfolio stories from the studio
+- [Service Capabilities Report](https://devalok.in/capabilities): Detailed breakdown of all six disciplines with case studies
+
+## Products
+- [Karm](https://karm.devalok.in): Internal studio operations platform with MCP (Model Context Protocol) integration — 54 tools registered
+- [Shilp Sutra](https://www.npmjs.com/package/@devalok/shilp-sutra): Design system on npm
+
+## Optional
+- [Portfolio](https://devalok.in/works): Selected client work and case studies
+- [GitHub](https://github.com/devalok-design): Open-source and engineering projects
+- [Contact](https://devalok.in/contact): Book a discovery call
+- [LinkedIn](https://linkedin.com/company/devalok/): Studio updates and thought leadership

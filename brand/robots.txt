@@ -1,0 +1,78 @@
+# ============================================
+# Devalok Design & Strategy Studio
+# robots.txt — AI & Search Crawler Policy
+# Updated: 2026-03-14
+# ============================================
+
+# --- TRADITIONAL SEARCH ---
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# --- OPENAI (ChatGPT) ---
+# Training crawler — allow (builds brand recognition in future models)
+User-agent: GPTBot
+Allow: /
+
+# Search indexing — allow (appears in ChatGPT Search answers)
+User-agent: OAI-SearchBot
+Allow: /
+
+# User-initiated browsing — allow (cited when users ask ChatGPT)
+User-agent: ChatGPT-User
+Allow: /
+
+# --- ANTHROPIC (Claude) ---
+# Training crawler
+User-agent: ClaudeBot
+Allow: /
+
+# Search indexing
+User-agent: Claude-SearchBot
+Allow: /
+
+# User-initiated browsing
+User-agent: Claude-User
+Allow: /
+
+# --- PERPLEXITY ---
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# --- GOOGLE AI (Gemini) ---
+User-agent: Google-Extended
+Allow: /
+
+# --- OTHER AI ---
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+# --- COMMON CRAWL (feeds many AI models) ---
+User-agent: CCBot
+Allow: /
+
+# --- DEFAULT ---
+User-agent: *
+Allow: /
+
+Sitemap: https://devalok.in/sitemap.xml
