@@ -956,7 +956,7 @@ First Week: Process orientation, tool setup, initial project assignment.
 
 Clientele spans: FMCG, baby care, medical clients, M&A advisory, and more. No specific niche — Devalok competes on quality across the entire spectrum.
 
-Project count: 20+ completed clients, significantly more total projects (some unfinished).
+Project count: 25+ completed clients, significantly more total projects (some unfinished).
 
 ---
 
